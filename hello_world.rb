@@ -1,1 +1,2 @@
-puts "Hello World!"
+line = 1
+puts `#{line}` + "Hello World!"
